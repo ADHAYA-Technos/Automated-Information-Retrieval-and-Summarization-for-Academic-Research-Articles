@@ -6,10 +6,10 @@ Each member must create a notebook with their name and try different approaches 
 How to Contribute
 ___| Task | Description | Output File Name | Deadline |
 ___|-----------------------|--------------------------------|---------------------|------------|
-___| Notebook Creation | Implement RAG Pipeline | Your_Name.ipynb | 15/03/2025 |
-___| Embedding Retrieval | Retrieve Chunks from ChromaDB | Automatic | 15/03/2025 |
-___| Summarization | Use LLM to Summarize Chunks | Summary.txt | 15/03/2025 |
-___| Performance Evaluation| Evaluate using ROUGE & BLEU | Evaluation_Your_Name.txt | 16/03/2025 |
+___| Notebook Creation | Implement RAG Pipeline | Your_Name.ipynb | 09/03/2025 |
+___| Embedding Retrieval | Retrieve Chunks from ChromaDB | Automatic | 09/03/2025 |
+___| Summarization | Use LLM to Summarize Chunks | Summary.txt | 09/03/2025 |
+___| Performance Evaluation| Evaluate using ROUGE & BLEU | Evaluation_Your_Name.txt | 09/03/2025 |
 
 
 🔥 Suggested Models
