@@ -3,7 +3,6 @@
 We welcome contributions from the community to help enhance GraphRAG Local Ollama! Whether you're interested in adding new features, fixing bugs, improving documentation, or suggesting ideas, your contributions are highly valued.
 
 ## How to Contribute
-
 1. **Fork the Repository**
    - Fork the [GraphRAG Local Ollama repository](https://github.com/TheAiSingularity/graphrag-local-ollama).
    - Clone your fork to your local machine:
