@@ -1,4 +1,5 @@
-# Automated Information Retrieval and Summarization for Academic Research Articles
+## Paperly
+## Automated Information Retrieval and Summarization for Academic Research Articles
 
 ## Description
 
